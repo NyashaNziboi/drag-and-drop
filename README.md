@@ -6,4 +6,4 @@ Simple image drag and drop
 - Drag and drop image from one box to the other
 
 ## View
-![](/image-drag-and-drop.png)
+![](/img-drag-and-drop.gif)
