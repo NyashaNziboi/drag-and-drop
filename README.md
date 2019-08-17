@@ -1,4 +1,4 @@
-# Drag-and-Drop
+# Image Drag and Drop
 Simple image drag and drop
 
 ## Usage
